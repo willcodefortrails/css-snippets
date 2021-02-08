@@ -1,0 +1,17 @@
+.parallax-body {
+  background-image: url("img/banners/banner-2.jfif");
+  height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+
+.gradient {
+  background: linear-gradient(
+   to bottom,
+   black,
+   rgba(0, 0, 0, 0)
+ )
+}
